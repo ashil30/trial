@@ -1,4 +1,5 @@
 #include <iostream>
+#include<memory>
 
 int multiply(int a, int b)
 {
